@@ -8,7 +8,7 @@ public class MainProgram {
         for (int i = 0; i < 20; i++) {
             String studentName = "Student " + (char)(i + 'A');
             Student student;
-            if (i % 2 == 0) {
+            if (i < 10) {
                 student = new PartTimeStudent(studentName);
             } else {
                 student = new FullTimeStudent(studentName);
