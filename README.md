@@ -1,1 +1,2 @@
-# INFO5100_002601821_Jimmy
+# INFO5100_002601821_Jinhong
+Exercises and Final Project
