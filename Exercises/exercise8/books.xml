@@ -1,0 +1,26 @@
+<BookShelf>
+    <Book>
+        <title>红楼梦</title>
+        <publishedYear>1791</publishedYear>
+        <numberOfPages>2500</numberOfPages>
+        <authors>
+            <author>曹雪芹</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>三国演义</title>
+        <publishedYear>1522</publishedYear>
+        <numberOfPages>1800</numberOfPages>
+        <authors>
+            <author>罗贯中</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>水浒传</title>
+        <publishedYear>1589</publishedYear>
+        <numberOfPages>1500</numberOfPages>
+        <authors>
+            <author>施耐庵</author>
+        </authors>
+    </Book>
+</BookShelf>
